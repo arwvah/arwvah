@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arwah</h1>
 
 <h3 align="center">
-Cybersecurity Student | Purple Team Enthusiast | Android Developer
+Cybersecurity Student | Purple Team Enthusiast 
 </h3>
 
 <p align="center">
@@ -18,12 +18,10 @@ Learning offensive & defensive security • Building AI security tools • Playi
 
 # 🚀 About Me
 
-- 🎓 Cyber University of Uzbekistan
-- 🔐 Interested in SOC, Threat Hunting & Purple Teaming
-- 🤖 Building AI-powered SOC Assistant
-- 📱 2 years of Android Development experience
-- 🏆 CTF Player (Team Arwahh)
-- 🌍 Based in Uzbekistan
+- 18 y.o boy
+- Interested in cybersecurity and ctf
+- Cybersecurity Management Major at Cyber University
+- Based in Uzbekistan
 
 ---
 
@@ -42,9 +40,8 @@ Learning offensive & defensive security • Building AI security tools • Playi
 | Project | Description |
 |---------|-------------|
 | AI SOC Assistant | AI-powered cybersecurity assistant |
-| Portfolio Website | Personal portfolio |
 | Malware Analysis | Static & dynamic malware analysis |
-| CTF Writeups | Writeups and scripts |
+| CTF and Writeups | Writeups and scripts |
 
 ---
 
@@ -77,14 +74,6 @@ Learning offensive & defensive security • Building AI security tools • Playi
 
 </p>
 
-
-# 🏆 Achievements
-
-- 🥇 CTF Competitor
-- 🛡️ Cybersecurity Student
-- 🤖 AI Security Projects
-- 📚 Always learning
-
 ---
 
 <p align="center">
@@ -93,10 +82,7 @@ Learning offensive & defensive security • Building AI security tools • Playi
 
 </p>
 
-## 🐍 Contribution Snake
-
-![snake](https://github.com/arwvah/arwvah/blob/output/github-contribution-grid-snake.svg)
-
+---
 
 # 📫 Connect
 
@@ -104,10 +90,6 @@ Learning offensive & defensive security • Building AI security tools • Playi
 
 <a href="https://github.com/arwvah">
 <img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="@yaa_sosed">
-<img src="https://skillicons.dev/icons?i=telegram"/>
 </a>
 
 <a href="faxxthzz@gmail.com">
