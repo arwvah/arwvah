@@ -1,14 +1,7 @@
-<h1 align="center">Hi 👋, I'm arwah</h1>
+<table>
+<tr>
+<td width="35%" valign="top">
 
-<h3 align="center">
-Cybersecurity Student | Purple Team Enthusiast 
-</h3>
-
-<p align="center">
-Learning offensive & defensive security • Building AI security tools • Playing CTFs
-</p>
-
-<p align="center">
 <pre>
 @@@@%=.......=%@@@@@
 @@@:.....:.:..:-%@@@
@@ -22,13 +15,22 @@ Learning offensive & defensive security • Building AI security tools • Playi
 @@@#.:--=-----*@@@@@
 @@*:::::-===+#%*++=-
 </pre>
-</p>
 
-<p align="center">
+</td>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Purple+Team+Enthusiast;Android+Developer;CTF+Player;AI+Security+Builder">
+<td width="65%" valign="top">
 
-</p>
+# Hi 👋, I'm Arwah
+
+### Cybersecurity Student | Purple Team Enthusiast
+
+Learning offensive & defensive security • Building AI security tools • Playing CTFs
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&width=450&lines=Cybersecurity+Student;Purple+Team+Enthusiast;Android+Developer;CTF+Player;AI+Security+Builder"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
