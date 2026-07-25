@@ -73,23 +73,6 @@ Learning offensive & defensive security • Building AI security tools • Playi
 
 ---
 
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arwvah&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=arwvah&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
 # 📫 Connect
 
 <p align="center">
