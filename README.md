@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arwah</h1>
+<h1 align="center">Hi 👋, I'm arwah</h1>
 
 <h3 align="center">
 Cybersecurity Student | Purple Team Enthusiast 
@@ -8,9 +8,9 @@ Cybersecurity Student | Purple Team Enthusiast
 Learning offensive & defensive security • Building AI security tools • Playing CTFs
 </p>
 
-<p align = "right">
- ```
- @@@@%=.......=%@@@@@
+<p align="center">
+<pre>
+@@@@%=.......=%@@@@@
 @@@:.....:.:..:-%@@@
 @@:..:--=++++*##=@@@
 @@...:--=+***+**+*@@
@@ -21,7 +21,7 @@ Learning offensive & defensive security • Building AI security tools • Playi
 @@@@:-=+++==++=*@@@@
 @@@#.:--=-----*@@@@@
 @@*:::::-===+#%*++=-
- ```
+</pre>
 </p>
 
 <p align="center">
