@@ -9,6 +9,7 @@ Learning offensive & defensive security • Building AI security tools • Playi
 </p>
 
 <p align = "right">
+ ```
  @@@@%=.......=%@@@@@
 @@@:.....:.:..:-%@@@
 @@:..:--=++++*##=@@@
@@ -20,6 +21,7 @@ Learning offensive & defensive security • Building AI security tools • Playi
 @@@@:-=+++==++=*@@@@
 @@@#.:--=-----*@@@@@
 @@*:::::-===+#%*++=-
+ ```
 </p>
 
 <p align="center">
