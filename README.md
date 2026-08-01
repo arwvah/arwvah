@@ -47,7 +47,7 @@ Learning offensive & defensive security • Building AI security tools • Playi
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,kotlin,java,js,html,css,git,github,linux,bash,docker,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,kotlin,java,css,git,github,linux,bash,docker,vscode"/>
 
 </p>
 
